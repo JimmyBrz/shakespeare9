@@ -1,0 +1,11 @@
+HAMLET
+
+ghost: ghost
+
+Polonius: curtain
+
+to be or not to be
+
+Hamlet: dead
+
+THE END
